@@ -1,3 +1,5 @@
+> **ABSORBED into the plurnk platform monorepo** — code, history, and issues now live in [`plurnk/plurnk-service`](https://github.com/plurnk/plurnk-service) under `plurnk-execs-git/`. This repo is an archived snapshot.
+
 # @plurnk/plurnk-execs-git
 
 `git` + GitHub-CLI runtime executor for [plurnk-service](https://github.com/plurnk/plurnk-service)'s `exec` scheme. Drives `EXEC[git]` / `EXEC[gh]` by **shelling the system `git`/`gh` binaries** — no third-party git/gh library; the installed CLIs are the source of truth.
